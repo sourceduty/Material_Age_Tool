@@ -21,6 +21,8 @@ Estimated Age:
 
 20 to 50 years old: The level of rusting and the condition of the paint suggest that this material has been exposed for a considerable amount of time. It is likely that this metal sheeting was used in construction or as cladding in the mid-to-late 20th century.
 
+#
+
 ![Old Wood](https://github.com/user-attachments/assets/5067a7fb-ed06-465b-a2de-a8f7d09191f5)
 
 Given these factors, the wood in the image is likely from a structure or object that has been exposed to the elements for at least 50 to 100 years. However, if it was part of an indoor structure, the age could be slightly younger, depending on the degree of exposure.
