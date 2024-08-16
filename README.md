@@ -25,6 +25,10 @@ Estimated Age:
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Upcycle Design](https://github.com/sourceduty/Upcycle_Design)
+<br>
+[Material Price](https://github.com/sourceduty/Material_Price)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
