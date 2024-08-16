@@ -11,6 +11,17 @@ To ensure accurate analysis, this GPT follows a step-by-step, multiple-choice qu
 In addition to estimating the age of materials, the GPT can also provide brief historical context related to the material's era. This added context helps users understand the significance of the item within its historical timeframe, offering a richer understanding of the object’s background and value. The tool is designed to offer clear and focused responses, making it both informative and user-friendly.
 
 #
+### Example
+
+![Old Metal](https://github.com/user-attachments/assets/a8c2572b-b742-465e-9af0-649bcf5cbde4)
+
+The material in the image appears to be old, rusted corrugated metal, possibly galvanized steel or iron. The rust and the peeling paint suggest significant exposure to the elements over an extended period. Based on the weathering patterns and the type of corrosion, the material could date back several decades.
+
+Estimated Age:
+
+20 to 50 years old: The level of rusting and the condition of the paint suggest that this material has been exposed for a considerable amount of time. It is likely that this metal sheeting was used in construction or as cladding in the mid-to-late 20th century.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
