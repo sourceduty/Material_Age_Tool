@@ -43,6 +43,10 @@ Given these factors, the wood in the image is likely from a structure or object 
 [Upcycle Design](https://github.com/sourceduty/Upcycle_Design)
 <br>
 [Material Price](https://github.com/sourceduty/Material_Price)
+<br>
+[Mechancial Design](https://github.com/sourceduty/Mechanical_Design)
+<br>
+[Product Design](https://github.com/sourceduty/Product_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
